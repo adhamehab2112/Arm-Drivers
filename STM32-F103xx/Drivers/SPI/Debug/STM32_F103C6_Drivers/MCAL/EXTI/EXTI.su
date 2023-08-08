@@ -1,0 +1,13 @@
+EXTI.c:30:6:Private_Enable_NVIC	16	static
+EXTI.c:66:6:Private_Disable_NVIC	16	static
+EXTI.c:103:6:Private_EXTI_Update	24	static
+EXTI.c:150:6:MCAL_EXTI_Init	16	static
+EXTI.c:154:6:MCAL_EXTI_DeInit	4	static
+EXTI.c:175:6:MCAL_EXTI_Update	16	static
+EXTI.c:187:6:EXTI0_IRQHandler	8	static
+EXTI.c:195:6:EXTI1_IRQHandler	8	static
+EXTI.c:202:6:EXTI2_IRQHandler	8	static
+EXTI.c:209:6:EXTI3_IRQHandler	8	static
+EXTI.c:216:6:EXTI4_IRQHandler	8	static
+EXTI.c:223:6:EXTI9_5_IRQHandler	8	static
+EXTI.c:231:6:EXTI15_10_IRQHandler	8	static
